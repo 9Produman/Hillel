@@ -1,4 +1,4 @@
-import this
-import antigravity
-import __hello__
-from __future__ import braces
+import this #Дзен Питона
+import antigravity #в браузере откроется комикс с ресурса XKCD
+#import __hello__ #это замороженный модуль, предназначенный в качестве тестового примера для поддержки замороженных модулей.
+#from __future__ import braces #это не оператор импорта, это оператор будущего .
